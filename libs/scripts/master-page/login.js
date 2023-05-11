@@ -19,7 +19,7 @@ $(document).ready(function () {
                     password: password
                 },
                 success: function (data) {
-                    if (data == "OK") {
+                    if (data == "Validated") {
                         window.location.href = "/home.php";
                     } else {
                         swal.fire({
