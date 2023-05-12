@@ -176,14 +176,14 @@
                         </tr>
                     </thead>
                     <tbody id="adminTable">
-                        <tr>
+                        <!-- <tr>
                             <td>Romeo Jr Bardillon</td>
                             <td>a68slk9287fdc</td>
                             <td>Admin</td>
                             <td><button class="btn btn-primary me-3" type="button"><i class="far fa-eye" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">View</span></button>
                             <button class="btn btn-success me-3" type="button"><i class="far fa-edit" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Edit</span></button>
                             <button class="btn btn-danger me-3" type="button"><i class="far fa-trash-alt" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Delete</span></button></td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>
@@ -208,14 +208,14 @@
                         </tr>
                     </thead>
                     <tbody id="salesmanTable">
-                        <tr>
+                        <!-- <tr>
                             <td>Romeo Jr Bardillon</td>
                             <td>a68slk9287fdc</td>
                             <td>Salesman</td>
                             <td><button class="btn btn-primary me-3" type="button"><i class="far fa-eye" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">View</span></button>
                             <button class="btn btn-success me-3" type="button"><i class="far fa-edit" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Edit</span></button>
                             <button class="btn btn-danger me-3" type="button"><i class="far fa-trash-alt" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Delete</span></button></td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>
@@ -240,14 +240,14 @@
                         </tr>
                     </thead>
                     <tbody id="installerTable">
-                        <tr>
+                        <!-- <tr>
                             <td>Joy Tan</td>
                             <td>a68slk9287fdc</td>
                             <td>Installer</td>
                             <td><button class="btn btn-primary me-3" type="button"><i class="far fa-eye" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">View</span></button>
                             <button class="btn btn-success me-3" type="button"><i class="far fa-edit" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Edit</span></button>
                             <button class="btn btn-danger me-3" type="button"><i class="far fa-trash-alt" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Delete</span></button></td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>
@@ -272,14 +272,14 @@
                         </tr>
                     </thead>
                     <tbody id="internTable">
-                        <tr>
+                        <!-- <tr>
                             <td>Joy Tan</td>
                             <td>a68slk9287fdc</td>
                             <td>Intern</td>
                             <td><button class="btn btn-primary me-3" type="button"><i class="far fa-eye" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">View</span></button>
                             <button class="btn btn-success me-3" type="button"><i class="far fa-edit" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Edit</span></button>
                             <button class="btn btn-danger me-3" type="button"><i class="far fa-trash-alt" style="color: rgb(255,255,255);font-size: 12px;"></i><span class="ps-3" style="font-size: 12px;">Delete</span></button></td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>

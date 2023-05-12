@@ -20,9 +20,8 @@ $(document).ready(function() {
     
     $("#employeeNumber").keyup(function() {
     var inputVal = $(this).val();
-        console.log(inputVal)
         if (inputVal.length === 6) {
-            console.log("Submitted");
+            console.log("Submitted employee number: " + inputVal);
             $(this).val("");
         }
     });
