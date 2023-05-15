@@ -20,7 +20,7 @@ $(document).ready(function () {
                 },
                 success: function (data) {
                     if (data == "Validated") {
-                        window.location.href = "/home.php";
+                        window.location.href = "home.php";
                     } else {
                         swal.fire({
                             title: "Error!",
