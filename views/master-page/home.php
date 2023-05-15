@@ -1,4 +1,10 @@
-<?php $page = "home"; include_once("../layout/header.php") ?>
+<?php 
+    $page = "home";
+    include_once("../layout/header.php");
+    if(!isset($_SESSION['user'])) {
+        header("Location: login.php"); 
+    } 
+?>
 
 <?php include_once("../layout/nav.php") ?>
 <body>
